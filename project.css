@@ -1,0 +1,29 @@
+.title{
+  color: #85482b;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  padding-bottom: 2rem;
+}
+
+.myframe{
+  background-color: #b0aaad;
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+
+iframe{
+  position: relative;
+  background-color: #b0aaad;
+}
+
+
+.opening, .myframe, .detail {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.opening, .detail{
+  background-color: #e3e3e4;
+}
